@@ -1,0 +1,53 @@
+html {
+	padding: 0 auto	;
+	height: 100%;	
+}
+body {
+  width: 70% ;
+  padding-left: 5%;
+  padding-right: 5%;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;  
+  margin: 0 auto;
+  background-color: rgba(255,255,255, .6);
+}
+
+header{
+	background-color: rgba(241,241,241, .6);
+	padding: 2px;
+}
+header h1 {
+	padding-left: 2%;
+}
+main {
+	padding-left: 2%;
+}
+.top{
+	overflow: hidden;
+	width: 100% ;
+}
+aside{
+	float: left;
+	width: 70% ;
+}
+aside p {
+	padding-top: 5%;
+	font-size: 120%;
+}
+aside span{
+	font-weight: 700;  
+}
+figure{
+	float: right;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+footer{
+	background-color: rgba(241,241,241, .6);
+	padding: 1%;
+	text-align: center;
+}
+footer p span{
+	font-weight: 700;  
+}
